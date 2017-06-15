@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHub Repo Searcher</string>
+    <string name="hint"><font color="black">Search...</font></string>
+    <string name="search">Search</string>
+</resources>
